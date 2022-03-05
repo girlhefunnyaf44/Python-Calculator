@@ -9,7 +9,7 @@ while True:
     print("Enter 'FOLD' to end the program")
     userInput = input(": ")
  
-#Logic for expressions
+
     if userInput.upper() == "FOLD":
         break
     elif userInput == "+":

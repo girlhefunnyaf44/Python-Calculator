@@ -1,3 +1,3 @@
 ## Python-Calculator
 
-Speedrun Calculator made it in 2 minutes and 48 seconds
+Made this in 2 less than 2 minutes
